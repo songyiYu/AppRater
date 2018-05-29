@@ -13,6 +13,7 @@ To use simply add the library to your app and make one call within your onCreate
 
 `AppRater.app_launched(this);`
 
+
 There are several options you can also use to change the default behavior.
 
 You can use the overriden method to specify your own day and launch count parameters.
